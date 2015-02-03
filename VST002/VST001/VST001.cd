@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VST001.Delay">
+    <Position X="8.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>RAAACAAAAAAAAAAAIAAAAAACAOAEAAAAAAAAQAAIQAA=</HashCode>
+      <FileName>Delay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.FxPluginInterfaceManager">
+    <Position X="11.5" Y="2" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAgAAAAAAAIAAQAAAA=</HashCode>
+      <FileName>FxPluginInterfaceManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.MonPlugin">
+    <Position X="0.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAABAAAAAJAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonPlugin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.MonPluginCommandStub">
+    <Position X="11.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonPluginCommandStub.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VST001.Plugin">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEiAAIgAAAAAAAAQEBAAAACAIAAAAAIgADAA=</HashCode>
+      <FileName>Plugin.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="VST001.PluginParameterFactory">
+    <Position X="3" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAgAAAAAAAAAAA=</HashCode>
+      <FileName>PluginParameterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.PluginPersistence">
+    <Position X="2.75" Y="0.5" Width="2" />
+    <NestedTypes>
+      <Class Name="VST001.PluginPersistence.DelayProgramReader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PluginPersistence.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PluginPersistence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.PluginPrograms">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PluginPrograms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VST001.ProcesseurAudio">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAEAAAAAAAAAhAAAAAACAAIAAAAAABAACAAQIA=</HashCode>
+      <FileName>ProcesseurAudio.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

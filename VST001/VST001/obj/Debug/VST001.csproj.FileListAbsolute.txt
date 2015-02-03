@@ -1,0 +1,7 @@
+C:\Devs\SoftFluent\VST001\VST001\obj\Debug\VST001.csprojResolveAssemblyReference.cache
+C:\Devs\SoftFluent\VST001\VST001\bin\Debug\VST001.dll
+C:\Devs\SoftFluent\VST001\VST001\bin\Debug\VST001.pdb
+C:\Devs\SoftFluent\VST001\VST001\bin\Debug\Jacobi.Vst.Core.dll
+C:\Devs\SoftFluent\VST001\VST001\bin\Debug\Jacobi.Vst.Framework.dll
+C:\Devs\SoftFluent\VST001\VST001\obj\Debug\VST001.dll
+C:\Devs\SoftFluent\VST001\VST001\obj\Debug\VST001.pdb
